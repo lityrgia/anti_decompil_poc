@@ -123,5 +123,3 @@ target/release/anti_decompil_poc ./program.exe
 ## After
 
 ![Entry point after patching](images/after.png)
-
-Place the screenshots at `images/before.png` and `images/after.png`.
